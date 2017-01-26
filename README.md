@@ -16,5 +16,3 @@ computing resources to researchers or applications
 
 ## Out of Scope
 
- - Other best-practices.  This will be set up and torn back down
- - AWS security beyond IAM roles (e.g. vpcs, firewalls, etc.)
